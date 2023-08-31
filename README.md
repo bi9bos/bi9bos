@@ -3,8 +3,8 @@
 I’m Faruq A. Tiamiyu, bi9bos  for short.
 
 <h3>✨ &nbsp;About Me</h3>
-- 👀 I’m currently flexing my muscles through Frontend mentor practices and working on building a spotify app with spotify api.<br>
-- 🌱 I’m currently learning JavaScript and APIs in depth while exploring Python machine learning as well on the side.<br>
+- 👀 ALX Software Engineering Student and Devcareer Backend Developer intern<br>
+- 🌱 I’m currently learning JavaScript while exploring Python on the side.<br>
 - 💞️ I’m looking to collaborate on open-source projects in frontend development<br>
 - 📫 Reach me on <a href="umarulfaruqtiamiyu@gmail.com">Gmail</a>, <a href="www.linkedin.com/in/faruqtiamiyu">LinkedIn</a>.<br>
 
